@@ -17,8 +17,6 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ![imAGE](2.png)
 
-
-
 ## Experiment:
 <img width="816" height="467" alt="image" src="https://github.com/user-attachments/assets/0cc3205b-1750-4633-b814-b2695e61da6f" />
 
@@ -56,4 +54,4 @@ else:
 <img width="844" height="469" alt="Screenshot 2026-05-19 173202" src="https://github.com/user-attachments/assets/2ad2ec7f-f5c5-4d72-bf3f-434268fbf491" />
 
 ## Result :
-
+Thus, the program has been executed successfully and the required parameters have been calculated as per thegivenconditions.
