@@ -51,7 +51,7 @@ else:
 ```
 
 ## Output :
-<img width="844" height="469" alt="Screenshot 2026-05-19 173202" src="https://github.com/user-attachments/assets/2ad2ec7f-f5c5-4d72-bf3f-434268fbf491" />
+<img width="666" height="293" alt="Screenshot 2026-05-19 173258" src="https://github.com/user-attachments/assets/eb09ce9d-7012-4e56-9808-047b9b19d424" />
 
 ## Result :
 Thus, the program has been executed successfully and the required parameters have been calculated as per thegivenconditions.
